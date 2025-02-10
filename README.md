@@ -17,7 +17,6 @@ With **7+ years of experience** in **Airplane Engine Testing**, I thrive on solv
 
 ## 🌍 Let's Connect and Create!
 - **GitHub:** [github.com/wilganfauzan](https://github.com/wilganfauzan)
-- **LinkedIn:** [linkedin.com/in/wilganfauzanprabadhi](www.linkedin.com/in/wilganfauzanprabadhi)
+- **LinkedIn:** [linkedin.com/in/wilganfauzanprabadhi](https://www.linkedin.com/in/wilganfauzanprabadhi/)
 
 🚀 Always open to exciting collaborations, innovative discussions, and groundbreaking ideas! Let’s build the future together! ✨
-
