@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hi there! I'm Wilgan Fauzan Prabadhi 
 
-<!--
-**wilganfauzan/wilganfauzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Airplane Engine Test Programmer | Software Engineer | Tech Enthusiast**
 
-Here are some ideas to get you started:
+With **7+ years of experience** in **Airplane Engine Testing**, I thrive on solving complex problems, diving deep into **root cause analysis**, and pushing the boundaries of **automation and optimization**. Whether working solo or collaborating with top-tier teams, I bring a passion for efficiency, precision, and continuous innovation to every project I tackle.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 My Superpowers
+- **Programming:** Python, C++, JavaScript (Next.js)
+- **Web Development:** Next.js, React, Node.js
+- **Data Acquisition Systems:** ASE2000LX (Mastering the art of precise data collection!)
+- **Version Control & CI/CD:** Git, GitHub Actions, Jenkins
+
+## 🛠️ What I’m Building Right Now
+- **"Transversal: The Hero's Reboot"** – A **chat-based web game** powered by **Next.js** 🎮
+- Cutting-edge **engine test programs** to enhance performance & accuracy 🛩️
+- Exploring **AI-driven automation** to revolutionize aerospace testing 🤖
+
+## 🌍 Let's Connect and Create!
+- **GitHub:** [github.com/wilganfauzan](https://github.com/wilganfauzan)
+- **LinkedIn:** [linkedin.com/in/wilganfauzan](www.linkedin.com/in/wilganfauzanprabadhi)
+
+🚀 Always open to exciting collaborations, innovative discussions, and groundbreaking ideas! Let’s build the future together! ✨
+
