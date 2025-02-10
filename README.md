@@ -8,7 +8,7 @@ With **7+ years of experience** in **Airplane Engine Testing**, I thrive on solv
 - **Programming:** Python, C++, JavaScript (Next.js)
 - **Web Development:** Next.js, React, Node.js
 - **Data Acquisition Systems:** ASE2000LX (Mastering the art of precise data collection!)
-- **Version Control & CI/CD:** Git, GitHub Actions, Jenkins
+- **Version Control & CI/CD:** Git, GitHub Actions
 
 ## 🛠️ What I’m Building Right Now
 - **"Transversal: The Hero's Reboot"** – A **chat-based web game** powered by **Next.js** 🎮
@@ -17,7 +17,7 @@ With **7+ years of experience** in **Airplane Engine Testing**, I thrive on solv
 
 ## 🌍 Let's Connect and Create!
 - **GitHub:** [github.com/wilganfauzan](https://github.com/wilganfauzan)
-- **LinkedIn:** [linkedin.com/in/wilganfauzan](www.linkedin.com/in/wilganfauzanprabadhi)
+- **LinkedIn:** [linkedin.com/in/wilganfauzanprabadhi](https://linkedin.com/in/wilganfauzan)
 
 🚀 Always open to exciting collaborations, innovative discussions, and groundbreaking ideas! Let’s build the future together! ✨
 
